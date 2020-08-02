@@ -1,6 +1,6 @@
 # Redcxx
 
-![nian](https://github.com/Redcxx/Redcxx/blob/master/images/79744291_p0.jpg?raw=true)
+![nian](https://github.com/Redcxx/Redcxx/blob/master/images/83370853_p0.jpg?raw=true)
 
 ## About Me
 - :male_sign::cn:
