@@ -1,5 +1,3 @@
-# Redcxx
-
 ![waifu](https://github.com/Redcxx/Redcxx/blob/master/images/83370853_p0.jpg?raw=true)
 
 ## About Me
