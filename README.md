@@ -5,7 +5,7 @@
 - :scorpius::one::one:/:zero::four:
 - :exclamation::underage:
 - :ping_pong::yo_yo::video_game::musical_note::books:
-- [:email:](mailto:weilue.luo@student.manchester.ac.uk)
+- [:email:](mailto:bin.kallzvx@gmail.com)
 
 
 
