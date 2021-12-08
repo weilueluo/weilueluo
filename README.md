@@ -6,7 +6,7 @@
 - :exclamation::underage:
 - :ping_pong::yo_yo::video_game::musical_note::books:
 - [:email:](mailto:bin.kallzvx@gmail.com)
-- website: [luoweilue.com](luoweilue.com)
+- [luoweilue.com](luoweilue.com)
 
 
 ***Rem is the best waifu.***
