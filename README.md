@@ -1,4 +1,4 @@
-![waifu](https://github.com/Redcxx/Redcxx/blob/master/images/96594274_p0.jpg?raw=true)
+![waifu](https://raw.githubusercontent.com/Redcxx/Redcxx/master/97289746_p0.jpg)
 
 ## About Me
 - :male_sign::cn:
