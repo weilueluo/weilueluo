@@ -21,7 +21,7 @@
 </h1>
 
 <p align="center">
-  A versatilist, easily adapt to different technologies. <br />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Versatilist%2C+Coder%2C+Learner%2C+Reader" /><br />
   Graduating from University College London.<br />
   Looking for a job.
 </p>
