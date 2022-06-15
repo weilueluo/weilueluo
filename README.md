@@ -62,7 +62,7 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcxx&layout=compact&langs_count=12&hide=jupyter%20notebook,javascript&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcxx&layout=compact&langs_count=12&theme=swift" />
 </div>
 
 
