@@ -65,6 +65,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcxx&layout=compact&langs_count=12&theme=swift" />
 </div>
 
+<h2 align="center">
+  Links
+</h2>
+- luoweilue.com
+- weilueluo.com
 
 <h2 align="center">
   I watch Anime before sleep
@@ -74,5 +79,4 @@
 </p>
 
 ![waifu](https://raw.githubusercontent.com/Redcxx/Redcxx/master/97289746_p0.jpg)
-
 
