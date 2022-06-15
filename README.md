@@ -47,12 +47,16 @@
   <img src="icons/Matplotlib_icon.svg" width=48 height=48>
   
 </div>
+
 <div align="center">
   <img src="icons/React-icon.svg" width=48 height=48>
   <img src="icons/nextjs.svg" width=48 height=48>
   <img src="icons/icons8-sass.svg" width=48 height=48>
   <img src="icons/pug-final-logo-_-colour-128.svg" width=48 height=48>
   <img src="icons/threejs.svg" width=48 height=48>
+</div>
+
+<div align="center">
   <img src="icons/icons8-amazon-web-services.svg" width=48 height=48>
 </div>
 
