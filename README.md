@@ -68,8 +68,12 @@
 <h2 align="center">
   Links
 </h2>
-- luoweilue.com
-- weilueluo.com
+<div align=center>
+  <span>https://luoweilue.com</span>
+  <span>https://weilueluo.com</span>
+  </ul>
+</div>
+
 
 <h2 align="center">
   I watch Anime before sleep
