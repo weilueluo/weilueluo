@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=redcxx&hide_border=true&theme=tokyonight_duo" alt="mystreak"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redcxx&hide_border=true&theme=tokyonight_duo" alt="mystreak"/>
 </div>
 
 <div align="center">
