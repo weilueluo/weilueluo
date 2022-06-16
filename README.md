@@ -70,9 +70,9 @@
   <img src="icons/icons8-unity.svg" width=48 height=48>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcxx&layout=compact&langs_count=12&theme=swift" />
-</div>
+</div> -->
 
 <h2 align="center">
   Links
