@@ -47,14 +47,13 @@
 </div>
 
 <div align="center">
-  <a href=""><img src="icons/pytorch-icon.svg" width=44 height=44></a>
-  <a href=""><img src="icons/numpy-icon.svg" width=48 height=48></a>
-  <a href=""><img src="icons/Matplotlib_icon.svg" width=48 height=48></a>
-  
+  <a href="https://pytorch.org/"><img src="icons/pytorch-icon.svg" width=44 height=44></a>
+  <a href="https://numpy.org/"><img src="icons/numpy-icon.svg" width=48 height=48></a>
+  <a href="https://matplotlib.org/"><img src="icons/Matplotlib_icon.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
-  <a href="https://pytorch.org/"><img src="icons/React-icon.svg" width=48 height=48></a>
+  <a href="https://reactjs.org/"><img src="icons/React-icon.svg" width=48 height=48></a>
   <a href="https://nextjs.org/"><img src="icons/nextjs.svg" width=48 height=48></a>
   <a href="https://sass-lang.com/"><img src="icons/icons8-sass.svg" width=48 height=48></a>
   <a href="https://github.com/pugjs/pug"><img src="icons/pug-final-logo-_-colour-128.svg" width=48 height=48></a>
