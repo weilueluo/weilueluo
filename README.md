@@ -43,7 +43,6 @@
   <a href="https://www.khronos.org/opengl/wiki/Core_Language_(GLSL)"><img src="icons/Opengl-logo.svg" width=48 height=48></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="icons/icons8-html-5.svg" width=48 height=48></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="icons/icons8-css3.svg" width=48 height=48></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="icons/csharp.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
