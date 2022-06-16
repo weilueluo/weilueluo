@@ -23,7 +23,12 @@
 <p align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Versatilist%2C+Coder%2C+Learner%2C+Reader" /><br />
   Graduating from University College London.<br />
-  Looking for a job.
+  Looking for a job.<br />
+  <a href="mailto:bin.llwll@gmail.com">
+    <img src="icons/envelope-solid.svg" width=16 height=16> 
+    bin.llwll@gmail.com
+    <img src="icons/envelope-solid.svg" width=16 height=16>
+  </a>
 </p>
 
 <h2 align="center">
