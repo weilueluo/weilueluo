@@ -86,7 +86,7 @@
   I watch Anime before sleep
 </h2>
 <p align="center">
-<i>...and Rem is the best waifu.</i>
+<i>...and Miku Nakano is the best waifu.</i>
 </p>
 
 ![waifu](https://raw.githubusercontent.com/Redcxx/Redcxx/master/97289746_p0.jpg)
