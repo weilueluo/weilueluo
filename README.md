@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello I'm Weilue Luo
+  Hello I'm Redcxx
 </h1>
 
 <div align="center">
@@ -23,7 +23,7 @@
 <p align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Versatilist%2C+Coder%2C+Learner%2C+Reader" /><br />
   Graduating from University College London.<br />
-  Interested in hiring me?<br />
+  I am looking for a Job! Checkout my CV and email below!<br />
   <a href="https://github.com/Redcxx/cv/blob/master/resume.pdf">
     <img src="icons/cv.png" width=16 height=16> 
     https://github.com/Redcxx/cv/blob/master/resume.pdf
