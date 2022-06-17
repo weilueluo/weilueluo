@@ -23,7 +23,13 @@
 <p align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Versatilist%2C+Coder%2C+Learner%2C+Reader" /><br />
   Graduating from University College London.<br />
-  Looking for a job.<br />
+  Interested in hiring me?<br />
+  <a href="https://github.com/Redcxx/cv">
+    <img src="icons/cv.png" width=16 height=16> 
+    https://github.com/Redcxx/cv
+    <img src="icons/cv.png" width=16 height=16>
+  </a>
+  <br/>
   <a href="mailto:luoweilue@gmail.com">
     <img src="icons/envelope-solid.svg" width=16 height=16> 
     luoweilue@gmail.com
@@ -76,8 +82,8 @@
   Links
 </h2>
 <div align=center>
-  <span>https://luoweilue.com</span><br />
-  <span>https://weilueluo.com</span>
+  <a href="https://luoweilue.com">https://luoweilue.com</a><br />
+  <a href="https://weilueluo.com">https://weilueluo.com</a>
   </ul>
 </div>
 
