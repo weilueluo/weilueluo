@@ -30,9 +30,9 @@
     <img src="icons/cv.png" width=16 height=16>
   </a>
   <br/>
-  <a href="mailto:luoweilue@gmail.com">
+  <a href="mailto:work.luoweilue@gmail.com">
     <img src="icons/envelope-solid.svg" width=16 height=16> 
-    luoweilue@gmail.com
+    work.luoweilue@gmail.com
     <img src="icons/envelope-solid.svg" width=16 height=16>
   </a>
 </p>
