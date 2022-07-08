@@ -66,12 +66,12 @@
 </div>
 
 <div align="center">
-  <a href="https://aws.amazon.com/"><img src="icons/icons8-amazon-web-services.svg" width=48 height=48></a>
+  <a href="https://www.blender.org/"><img src="icons/blender.svg" width=48 height=48></a>
+  <a href="https://unity.com/"><img src="icons/icons8-unity.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
-  <a href="https://www.blender.org/"><img src="icons/blender.svg" width=48 height=48></a>
-  <a href="https://unity.com/"><img src="icons/icons8-unity.svg" width=48 height=48></a>
+  <a href="https://aws.amazon.com/"><img src="icons/icons8-amazon-web-services.svg" width=48 height=48></a>
 </div>
 
 <!-- <div align="center">
