@@ -2,9 +2,11 @@
   Hello I'm Weilue Luo
 </h1>
 
+<!-- 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redcxx&hide_border=true&theme=tokyonight_duo" alt="mystreak"/>
 </div>
+-->
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=redcxx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&line_height=30" />
@@ -82,7 +84,7 @@
   Links
 </h2>
 <div align=center>
-  <a href="https://luoweilue.com">https://luoweilue.com</a><br />
+  <!-- <a href="https://luoweilue.com">https://luoweilue.com</a><br /> -->
   <a href="https://weilueluo.com">https://weilueluo.com</a>
   </ul>
 </div>
