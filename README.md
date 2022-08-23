@@ -94,8 +94,10 @@
   I watch Anime before sleep
 </h2>
 <p align="center">
-<i>...and Miku Nakano is the best waifu.</i>
+<i>...and Minakata Hizuru is the best waifu.</i>
 </p>
 
-![waifu](https://raw.githubusercontent.com/Redcxx/Redcxx/master/97289746_p0.jpg)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Redcxx/Redcxx/master/100553225_p0.jpg" alt="waifu" width="25%"/>
+</div>
