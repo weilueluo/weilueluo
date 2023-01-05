@@ -87,16 +87,3 @@
   <a href="https://weilueluo.com">https://weilueluo.com</a>
   </ul>
 </div>
-
-
-<h2 align="center">
-  I watch Anime before sleep
-</h2>
-<p align="center">
-<i>...and Minakata Hizuru is the best waifu.</i>
-</p>
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Redcxx/Redcxx/master/100553225_p0.jpg" alt="waifu" width="25%"/>
-</div>
