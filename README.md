@@ -25,9 +25,9 @@
 <p align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Coder%2C+Learner%2C+Reader" /><br />
   Resume<br />
-  <a href="https://github.com/weilluo/cv/blob/master/resume.pdf">
+  <a href="https://github.com/weilueluo/cv/blob/master/resume.pdf">
     <img src="icons/cv.png" width=16 height=16> 
-    https://github.com/weilluo/cv/blob/master/resume.pdf
+    https://github.com/weilueluo/cv/blob/master/resume.pdf
     <img src="icons/cv.png" width=16 height=16>
   </a>
   <br/>
