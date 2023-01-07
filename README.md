@@ -71,15 +71,13 @@
   <a href="https://pytorch.org/"><img src="icons/pytorch-icon.svg" width=44 height=44></a>
   <a href="https://numpy.org/"><img src="icons/numpy-icon.svg" width=48 height=48></a>
   <a href="https://matplotlib.org/"><img src="icons/Matplotlib_icon.svg" width=48 height=48></a>
-</div>
-
-<div align="center">
   <a href="https://www.blender.org/"><img src="icons/blender.svg" width=48 height=48></a>
   <a href="https://unity.com/"><img src="icons/icons8-unity.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
   <a href="https://aws.amazon.com/"><img src="icons/icons8-amazon-web-services.svg" width=48 height=48></a>
+  <a href="https://azure.microsoft.com"><img src="icons/icons8-azure.svg" width=48 height=48></a>
 </div>
 
 <!-- <div align="center">
