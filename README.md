@@ -2,15 +2,21 @@
   Hello I'm Weilue Luo
 </h1>
 
+<!-- <div align="center">
+  <span>
+    I try to change lives.
+  </span>
+</div>
+ -->
 <!-- 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redcxx&hide_border=true&theme=tokyonight_duo" alt="mystreak"/>
 </div>
 -->
 
-<div align="center">
+<!-- <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=weilluo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&line_height=30" />
-</div>
+</div> -->
 
 <!-- <div align="center">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=redcxx&theme=minimal&hide_border=true&area=true&hide_title=true&bg_color=white"/>
@@ -18,9 +24,9 @@
 
   
   
-<h1 align="center">
+<!-- <h1 align="center">
   About Me
-</h1>
+</h1> -->
 
 <p align="center">
   <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Coder%2C+Learner%2C+Reader" /><br />
@@ -58,6 +64,7 @@
   <a href="https://sass-lang.com/"><img src="icons/icons8-sass.svg" width=48 height=48></a>
   <a href="https://github.com/pugjs/pug"><img src="icons/pug-final-logo-_-colour-128.svg" width=48 height=48></a>
   <a href="https://threejs.org/"><img src="icons/threejs.svg" width=48 height=48></a>
+  <a href="https://www.terraform.io/"><img src="icons/terraform.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
