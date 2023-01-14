@@ -64,7 +64,6 @@
   <a href="https://sass-lang.com/"><img src="icons/icons8-sass.svg" width=48 height=48></a>
   <a href="https://github.com/pugjs/pug"><img src="icons/pug-final-logo-_-colour-128.svg" width=48 height=48></a>
   <a href="https://threejs.org/"><img src="icons/threejs.svg" width=48 height=48></a>
-  <a href="https://www.terraform.io/"><img src="icons/terraform.svg" width=48 height=48></a>
 </div>
 
 <div align="center">
@@ -78,6 +77,7 @@
 <div align="center">
   <a href="https://aws.amazon.com/"><img src="icons/icons8-amazon-web-services.svg" width=48 height=48></a>
   <a href="https://azure.microsoft.com"><img src="icons/icons8-azure.svg" width=48 height=48></a>
+  <a href="https://www.terraform.io/"><img src="icons/terraform.svg" width=48 height=48></a>
 </div>
 
 <!-- <div align="center">
