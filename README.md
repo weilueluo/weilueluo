@@ -1,13 +1,14 @@
 <h1 align="center">
-  Hello I'm Weilue Luo
+  :ghost:Hello:ghost:	
 </h1>
 
-<!-- <div align="center">
+<div align="center">
   <span>
-    I try to change lives.
+     I'm Weilue Luo.<br/>
+    I try to learn and code stuff when I am not sleeping.
   </span>
 </div>
- -->
+
 <!-- 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redcxx&hide_border=true&theme=tokyonight_duo" alt="mystreak"/>
@@ -29,23 +30,15 @@
 </h1> -->
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Coder%2C+Learner%2C+Reader" /><br />
-  Resume<br />
-  <a href="https://github.com/weilueluo/cv/blob/master/resume.pdf">
-    <img src="icons/cv.png" width=16 height=16> 
-    https://github.com/weilueluo/cv/blob/master/resume.pdf
-    <img src="icons/cv.png" width=16 height=16>
-  </a>
-  <br/>
-  <a href="mailto:work.luoweilue@gmail.com">
-    <img src="icons/envelope-solid.svg" width=16 height=16> 
-    work.luoweilue@gmail.com
-    <img src="icons/envelope-solid.svg" width=16 height=16>
-  </a>
+<!--   <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Coder%2C+Learner%2C+Reader" /><br /> -->
+<!--   Resume<br /> -->
+ 
 </p>
 
 <h2 align="center">
-  Languages & Tools
+  <img src="icons/support.png" width=16 height=16>
+    Languages & Tools
+  <img src="icons/support.png" width=16 height=16>
 </h2>
 
 <div align="center">
@@ -85,11 +78,40 @@
 </div> -->
 
 <h2 align="center">
-  Links
+  <img src="icons/browser.png" width=16 height=16> 
+  Personal Website
+  <img src="icons/browser.png" width=16 height=16>
 </h2>
 <div align=center>
-  <!-- <a href="https://luoweilue.com">https://luoweilue.com</a><br /> -->
-  <a href="https://weilueluo.com">https://weilueluo.com</a><br/>
-  <a href="http://罗伟略.com">http://罗伟略.com</a>
-  </ul>
+  <a href="https://weilueluo.com">
+    https://weilueluo.com
+  </a>
+  <br/>
+  <a href="http://罗伟略.com">
+    http://罗伟略.com
+  </a>
 </div>
+
+<h2 align="center">
+  <img src="icons/cv.png" width=16 height=16>
+  Resume
+  <img src="icons/cv.png" width=16 height=16>
+</h2>
+<div align=center>
+  <a href="https://github.com/weilueluo/cv/blob/master/resume.pdf">
+     https://github.com/weilueluo/cv/blob/master/resume.pdf
+  </a>
+</div>
+
+<h2 align="center">
+  <img src="icons/envelope-solid.svg" width=16 height=16> 
+  Email
+  <img src="icons/envelope-solid.svg" width=16 height=16>
+</h2>
+<div align=center>
+  <a href="mailto:work.luoweilue@gmail.com">
+     work.luoweilue@gmail.com
+  </a>
+</div>
+
+
