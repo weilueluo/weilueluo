@@ -98,7 +98,7 @@
 
 <h2 align="center">
   <img src="icons/cv.png" width=16 height=16>
-  Resume
+  CV
   <img src="icons/cv.png" width=16 height=16>
 </h2>
 <div align=center>
