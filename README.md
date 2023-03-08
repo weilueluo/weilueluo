@@ -1,5 +1,5 @@
 <h1 align="center">
-  :ghost:Hello:ghost:	
+  Hello	
 </h1>
 
 <div align="center">
