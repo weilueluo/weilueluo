@@ -94,6 +94,9 @@
   <a href="https://llwll.net">
     https://llwll.net
   </a>
+  <a href="https://personal-website-redcxx.vercel.app">
+    https://personal-website-redcxx.vercel.app (WIP)
+  </a>
 </div>
 
 <h2 align="center">
