@@ -69,7 +69,6 @@
 
 <div align="center">
   <a href="https://aws.amazon.com/"><img src="icons/icons8-amazon-web-services.svg" width=48 height=48></a>
-  <a href="https://azure.microsoft.com"><img src="icons/icons8-azure.svg" width=48 height=48></a>
   <a href="https://www.terraform.io/"><img src="icons/terraform.svg" width=48 height=48></a>
 </div>
 
