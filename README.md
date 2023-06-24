@@ -82,20 +82,8 @@
   <img src="icons/browser.png" width=16 height=16>
 </h2>
 <div align=center>
-  <a href="https://weilueluo.com">
-    https://weilueluo.com
-  </a>
-  <br/>
-  <a href="http://罗伟略.com">
-    http://罗伟略.com
-  </a>
-  <br/>
   <a href="https://llwll.net">
     https://llwll.net
-  </a>
-  <br/>
-  <a href="https://personal-website-weilueluo.vercel.app">
-    https://personal-website-weilueluo.vercel.app (WIP)
   </a>
 </div>
 
