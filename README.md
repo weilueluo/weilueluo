@@ -82,8 +82,8 @@
   <img src="icons/browser.png" width=16 height=16>
 </h2>
 <div align=center>
-  <a href="https://llwll.net">
-    https://llwll.net
+  <a href="https://wll.dev">
+    https://wll.dev
   </a>
 </div>
 
