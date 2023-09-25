@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello :construction:
+  :construction: Hello
 </h1>
 
 <div align="center">
