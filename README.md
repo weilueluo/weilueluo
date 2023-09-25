@@ -1,11 +1,10 @@
 <h1 align="center">
-  Hello	
+  Hello :construction:
 </h1>
 
 <div align="center">
   <span>
      I'm Weilue Luo.<br/>
-    I try to learn and code stuff when I am not sleeping.
   </span>
 </div>
 
