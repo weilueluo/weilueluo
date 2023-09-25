@@ -108,7 +108,7 @@
 </h2>
 <div align=center>
   <a href="mailto:work.luoweilue@gmail.com">
-     work.luoweilue@gmail.com
+     luoweilue@gmail.com
   </a>
 </div>
 
