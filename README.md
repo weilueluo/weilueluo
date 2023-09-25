@@ -1,5 +1,5 @@
 <h1 align="center">
-  :construction: Hello
+  :construction: Hello :construction:
 </h1>
 
 <div align="center">
@@ -34,14 +34,17 @@
  
 </p>
 
+
+<!--
 <h2 align="center">
   <img src="icons/support.png" width=16 height=16>
     Languages & Tools
   <img src="icons/support.png" width=16 height=16>
 </h2>
 
+
 <div align="center">
-  <!-- https://icons8.com/icons -->
+  
   <a href="https://www.java.com/en/"><img src="icons/icons8-java.svg" width=48 height=48></a>
   <a href="https://www.python.org/"><img src="icons/icons8-python.svg" width=48 height=48></a>
   <a href="https://www.javascript.com/"><img src="icons/icons8-javascript.svg" width=48 height=48></a>
@@ -70,6 +73,7 @@
   <a href="https://aws.amazon.com/"><img src="icons/icons8-amazon-web-services.svg" width=48 height=48></a>
   <a href="https://www.terraform.io/"><img src="icons/terraform.svg" width=48 height=48></a>
 </div>
+-->
 
 <!-- <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcxx&layout=compact&langs_count=12&theme=swift" />
