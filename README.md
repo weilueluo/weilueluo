@@ -1,35 +1,29 @@
-  <h2>
-    Hello
-  </h2>
+<img src="github-metrics.svg" />
 
-  <span>
-     I'm Weilue Luo.<br/>
-  </span>
-
-<!-- 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redcxx&hide_border=true&theme=tokyonight_duo" alt="mystreak"/>
-</div>
--->
-
-<!-- <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=weilluo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&line_height=30" />
-</div> -->
-
-<!-- <div align="center">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=redcxx&theme=minimal&hide_border=true&area=true&hide_title=true&bg_color=white"/>
-</div> -->
-
-  
-  
-<!-- <h1 align="center">
-  About Me
-</h1> -->
-
-<!--   <img align="center" src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Coder%2C+Learner%2C+Reader" /><br /> -->
-<!--   Resume<br /> -->
+<ul>
+  <li>
+     <img src="icons/browser.png" width=16 height=16> 
+      Personal Website
+    <a href="https://wll.dev">
+      https://wll.dev
+    </a>
+  </li>
+  <li>
+     <img src="icons/cv.png" width=16 height=16>
+  CV
+     <a href="https://github.com/weilueluo/cv/blob/master/resume.pdf">
+     https://github.com/weilueluo/cv/blob/master/resume.pdf
+  </a>
+  </li>
+  <li>
+    <img src="icons/envelope-solid.svg" width=16 height=16> 
+  Email
+  <a href="mailto:work.luoweilue@gmail.com">
+     luoweilue@gmail.com
+  </a>
+  </li>
+</ul>
  
-
 
 <!--
   <img src="icons/support.png" width=16 height=16>
@@ -65,34 +59,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redcxx&layout=compact&langs_count=12&theme=swift" />
 </div> -->
 
-<h2>
-  <img src="icons/browser.png" width=16 height=16> 
-  Personal Website
-</h2>
-<div>
-  <a href="https://wll.dev">
-    https://wll.dev
-  </a>
-</div>
 
-<h2>
-  <img src="icons/cv.png" width=16 height=16>
-  CV
-</h2>
-<div>
-  <a href="https://github.com/weilueluo/cv/blob/master/resume.pdf">
-     https://github.com/weilueluo/cv/blob/master/resume.pdf
-  </a>
-</div>
-
-<h2>
-  <img src="icons/envelope-solid.svg" width=16 height=16> 
-  Email
-</h2>
-<div>
-  <a href="mailto:work.luoweilue@gmail.com">
-     luoweilue@gmail.com
-  </a>
-</div>
 
 
