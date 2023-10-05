@@ -36,7 +36,7 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: .user.login
+          plugin_anilist_user: wweilue
           plugin_gists: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
