@@ -29,7 +29,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
-          config_display: columns
+          #config_display: columns
           config_timezone: Europe/London
           plugin_gists: yes
           plugin_isocalendar: yes
