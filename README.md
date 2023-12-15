@@ -1,9 +1,7 @@
-<img src="github-metrics.svg" />
-
 <ul>
   <li>
      <img src="icons/browser.png" width=16 height=16> 
-      Personal Website
+      Website
     <a href="https://wll.dev">
       https://wll.dev
     </a>
