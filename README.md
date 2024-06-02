@@ -8,7 +8,7 @@
   </li>
   <li>
      <img src="icons/cv.png" width=16 height=16>
-  CV
+  Resume
      <a href="https://github.com/weilueluo/cv/blob/master/resume.pdf">
      https://github.com/weilueluo/cv/blob/master/resume.pdf
   </a>
@@ -16,7 +16,7 @@
   <li>
     <img src="icons/envelope-solid.svg" width=16 height=16> 
   Email
-  <a href="mailto:work.luoweilue@gmail.com">
+  <a href="mailto:luoweilue@gmail.com">
      luoweilue@gmail.com
   </a>
   </li>
